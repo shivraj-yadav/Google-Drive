@@ -120,7 +120,7 @@
         u = document.getElementById("username").value;
         p = document.getElementById("password").value;
 
-        if (u == "shiv" && p == "123") {
+        if (u == "admin" && p == "123") {
             window.location.assign("admin_dashboard.php");
         }
         else
